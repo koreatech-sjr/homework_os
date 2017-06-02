@@ -31,7 +31,7 @@ public class Simulator {
 		long startTime = System.nanoTime();
 
 		lru_stack(references, refList.size());
-		// fifo
+		fifo(references, refList.size());
 		// op
 		// lru
 		second_chance(references, refList.size());
@@ -75,7 +75,8 @@ public class Simulator {
 	}
 
 	public static void fifo(Integer[] references, int refCount) {
-
+		int BUFFERMAX = 3;
+		LinkedList<Integer> buffer = new LinkedList<Integer>();
 	}
 
 	public static void lru(Integer[] references, int refCount) {
