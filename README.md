@@ -1,5 +1,7 @@
-### OS PAGE CHANGE ALGORITHM 
+## OS PAGE CHANGE ALGORITHM TERMPROJECT
 
-## KOREATECH
-## TEAM Leader Jung bohyeok
-## TEAM : Sonjaerock 
+### KOREATECH OS
+
+#### TEAM Leader Jung bohyeok
+
+#### DEVELOPER : Sonjaerock 
